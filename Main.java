@@ -66,5 +66,7 @@ public class Main {
 
 
         System.out.println("main contin34");
+
+        System.out.println("another massage");
     }
-}
+} 
