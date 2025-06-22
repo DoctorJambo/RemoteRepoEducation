@@ -64,5 +64,6 @@ public class Main {
             System.out.println(day.getRandomDayOfWeek());
         }
 
+        System.out.println("pull request");
     }
 }
